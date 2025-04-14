@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ayyananwar/beach-event-management.gi/static/css/main.3cdcfb40.css",
-    "main.js": "/ayyananwar/beach-event-management.gi/static/js/main.7d69af79.js",
-    "index.html": "/ayyananwar/beach-event-management.gi/index.html",
-    "main.3cdcfb40.css.map": "/ayyananwar/beach-event-management.gi/static/css/main.3cdcfb40.css.map",
-    "main.7d69af79.js.map": "/ayyananwar/beach-event-management.gi/static/js/main.7d69af79.js.map"
+    "main.css": "/beach-event-management/static/css/main.3cdcfb40.css",
+    "main.js": "/beach-event-management/static/js/main.6ed2c69a.js",
+    "index.html": "/beach-event-management/index.html",
+    "main.3cdcfb40.css.map": "/beach-event-management/static/css/main.3cdcfb40.css.map",
+    "main.6ed2c69a.js.map": "/beach-event-management/static/js/main.6ed2c69a.js.map"
   },
   "entrypoints": [
     "static/css/main.3cdcfb40.css",
-    "static/js/main.7d69af79.js"
+    "static/js/main.6ed2c69a.js"
   ]
 }
