@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ayyananwar/beach-event-management.gi/static/css/main.3cdcfb40.css",
+    "main.js": "/ayyananwar/beach-event-management.gi/static/js/main.7d69af79.js",
+    "index.html": "/ayyananwar/beach-event-management.gi/index.html",
+    "main.3cdcfb40.css.map": "/ayyananwar/beach-event-management.gi/static/css/main.3cdcfb40.css.map",
+    "main.7d69af79.js.map": "/ayyananwar/beach-event-management.gi/static/js/main.7d69af79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cdcfb40.css",
+    "static/js/main.7d69af79.js"
+  ]
+}
